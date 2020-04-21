@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://Hazama25.github.io/sitemap.xml
+Sitemap: https://xyzuan.github.io/sitemap.xml
