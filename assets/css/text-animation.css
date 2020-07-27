@@ -43,10 +43,10 @@ html * {
   /* line */
   content: '';
   position: absolute;
-  top: 15%;
+  top: 70%;
   right: 0;
-  width: 2px;
-  height: 70%;
+  width: 9px;
+  height: 2px;
   background-color: #fff;
 }
 .no-js .cd-headline.clip .cd-words-wrapper::after{
