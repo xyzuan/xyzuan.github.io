@@ -1,0 +1,30 @@
+.portfolio-experiment, .scene {
+  height: 100vh;
+  overflow: hidden;
+  display: -webkit-box;
+  display: flex;
+  flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-display: flex;
+  -webkit-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-box-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+  -webkit-align-items: center;
+}
+
+.portfolio-experiment {
+  background: #00ffa5;
+  color: #203e86;
+}
+.portfolio-experiment .experiment-title {
+  outline: none;
+  font-size: 10vw;
