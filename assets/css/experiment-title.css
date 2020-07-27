@@ -1,11 +1,11 @@
 .portfolio-experiment {
-	background: #00ffa5;
-	color: #203e86;
+	background: #00000000;
+	color: #ffffff;
 }
 
 .portfolio-experiment .experiment-title {
 	outline: none;
-	font-size: 10vw;
+	font-size: 4vw;
 	text-align: center;
 	font-family: "Roboto", monospace;
 	min-height: 10vw;
