@@ -716,9 +716,12 @@ input, select, textarea {
 		padding-left: 1em;
 	}
 
-		ul li {
-			padding-left: 0.5em;
-		}
+	ul li {
+		padding-top: 0.2rem;
+		padding-bottom: 0.2rem;
+		padding-left: 1rem;
+		padding-right: 1rem;
+	}		
 
 		ul.alt {
 			list-style: none;
@@ -1233,7 +1236,7 @@ input, select, textarea {
 					padding: 0 1.25rem 0 1.45rem;
 					text-transform: uppercase;
 					letter-spacing: 0.2rem;
-					font-size: 0.8rem;
+					font-size: 1rem;
 					border-bottom: 0;
 				}
 
