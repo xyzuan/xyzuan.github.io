@@ -46,7 +46,7 @@ html * {
   top: 70%;
   right: 0;
   width: 9px;
-  height: 2px;
+  height: 1px;
   background-color: #fff;
 }
 .no-js .cd-headline.clip .cd-words-wrapper::after{

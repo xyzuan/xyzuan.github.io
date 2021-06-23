@@ -1,6 +1,3 @@
-@import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
-
 /*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
@@ -194,13 +191,13 @@ input, select, textarea {
 			width: -ms-max-content;
 			width: max-content;
 			font-size: 2.5rem;
-			font-family: poppins sans-serif;
-			padding-top: 3rem;
+			font-family: 'poppins', sans-serif;
+			padding-top: 5rem;
 			margin: 0 0 2rem 0;
 		}
 
 	h1 {
-		font-family: popppins;
+		font-family: 'poppins', sans-serif;
 		font-size: 2.25rem;
 		line-height: 1.3;
 	}
